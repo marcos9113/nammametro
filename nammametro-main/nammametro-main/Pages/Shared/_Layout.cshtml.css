@@ -1,0 +1,9 @@
+﻿
+body {
+  background-image: url('https: //images.pexels.com/photos/169677/pexels-photo-169677.jpeg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  font-family: 'Raleway';
+}
